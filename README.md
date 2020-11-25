@@ -1,1 +1,1 @@
-# DIctionary-using-Python-mini-GUI-project-
+# Dictionary-using-Python-mini-GUI-project-
